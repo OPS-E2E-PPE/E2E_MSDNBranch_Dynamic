@@ -1,0 +1,8 @@
+{
+  "redirections":[
+  {
+    "source_path":"E2E_MSDNBranch_Dynamic/index.md",
+    "redirect_url":"https://ppe.docs.microsoft.com/en-us/E2E_DocsBranch_Dynamic/index?branch=MSDNRedirectToDocs"
+  }
+ ]
+}
